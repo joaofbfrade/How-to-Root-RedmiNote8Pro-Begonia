@@ -13,9 +13,6 @@ All tutorials are outdated and since i only found 1 recovery image firmware that
 4.Install MagiskManager to root device
 
 
-optional ( To run apps that dont allow you to use rooted device like Banking apps : Revolut, Stripe, etc... ) :
-
-install Shamiko module
-hide magisk and add the app you want to hidding list.
+optional ( To run apps that dont allow you to use rooted device like Banking apps : Revolut, Stripe, etc... ) install Shamiko module => hide magisk and add the app you want to hidding list.
 
 Done
