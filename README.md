@@ -1,18 +1,14 @@
-# Root-Redmi-Note-8-Pro-Begonia
 
-
-Root-Redmi-note-8-Pro
 All tutorials are outdated and since i only found 1 recovery image firmware that worked on this device:
 
-1.Unlock xiaomi with miunlock, you need to add your miui account connect and wait 1 week before you do
+1. **Unlock Bootloader**: Use Mi Unlock tool, wait a week after adding your Mi account.
 
-2.Connect your phone to Pc and go fastboot mode, if its not detected you need to updat your fastboot drivers
+2. **Enter Fastboot Mode**: Turn off your phone, then hold Power + Volume Down to enter Fastboot.
 
-3.Run TWRP autoinstaller to change the recovery Image firmware
+3. **Install TWRP Recovery**: Download TWRP image, connect phone to PC, flash TWRP using Fastboot.
 
-4.Install MagiskManager to root device
+4. **Install Magisk Manager**: Download Magisk Manager APK, install it on your phone, and follow the prompts to install Magisk.
 
+5. **Optional - Hide Root**: Install Magisk Hide module if needed for certain apps.
 
-optional ( To run apps that dont allow you to use rooted device like Banking apps : Revolut, Stripe, etc... ) install Shamiko module => hide magisk and add the app you want to hidding list.
-
-Done!
+6. **Done!**: Your Redmi Note 8 Pro is rooted and ready to go!
